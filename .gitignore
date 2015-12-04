@@ -87,3 +87,4 @@ $RECYCLE.BIN/
 *.lnk
 *.elay
 *.depend
+stm32_EMBitz_CPP_template.elay
